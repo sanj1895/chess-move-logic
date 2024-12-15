@@ -26,7 +26,7 @@ A Python-based program that implements chess move validation and board managemen
    ```
 3. Run the Python script:
    ```bash
-   python your_script_name.py
+   python chess_move_logic.py
    ```
 
 ## Project Structure
@@ -34,7 +34,7 @@ A Python-based program that implements chess move validation and board managemen
 ```
 chess-move-logic/
 │
-├── your_script_name.py       # Main Python script for chess logic and GUI
+├── chess_move_logic.py       # Main Python script for chess logic and GUI
 ├── README.md                 # Project documentation
 └── assets/                   # (Optional) Directory for images or resources
 ```
@@ -71,4 +71,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 **Author**: Sanjana Anand
+
+Code developed by Rigoberto “Rigo” Chiti, Peter Wu, Sanjana Anand, Will McKinney
 
