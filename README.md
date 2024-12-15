@@ -18,7 +18,7 @@ A Python-based program that implements chess move validation and board managemen
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/chess-move-logic.git
+   git clone https://github.com/sanj1895/chess-move-logic.git
    ```
 2. Navigate to the project directory:
    ```bash
